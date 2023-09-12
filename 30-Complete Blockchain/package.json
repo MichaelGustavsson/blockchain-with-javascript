@@ -5,9 +5,9 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "node-1": "nodemon server.js 3000 http://localhost:3000",
-    "node-2": "nodemon server.js 3001 http://localhost:3001",
-    "node-3": "nodemon server.js 3002 http://localhost:3002"
+    "node-1": "nodemon server.js 3001 http://localhost:3001",
+    "node-2": "nodemon server.js 3002 http://localhost:3002",
+    "node-3": "nodemon server.js 3003 http://localhost:3003"
   },
   "keywords": [],
   "author": "",
